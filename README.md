@@ -11,7 +11,7 @@ Check on [Ollama](https://ollama.com/)
 
 ##### My WebSite
 ------
-https://www.ke-et.com/kmd/tech/build-openvas
+![](https://www.ke-et.com)
 
 ---
 ![](https://hackmd.io/_uploads/S1I5rEF42.png)
