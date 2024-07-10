@@ -9,9 +9,9 @@ It include some of system prompt , the credit number was follow up Luhn algorith
 Check on [Ollama](https://ollama.com/)
 
 
-##### My WebSite
+#### My WebSite
 ------
-[My Website](https://www.ke-et.com)
+[MyWebsite](https://www.ke-et.com)
 
 ---
 ![](https://hackmd.io/_uploads/S1I5rEF42.png)
