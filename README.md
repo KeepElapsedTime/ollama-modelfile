@@ -7,3 +7,11 @@ It include some of system prompt , the credit number was follow up Luhn algorith
 ### How to create model with Ollama
 
 Check on [Ollama](https://ollama.com/)
+
+
+##### My WebSite
+------
+https://www.ke-et.com/kmd/tech/build-openvas
+
+---
+![](https://hackmd.io/_uploads/S1I5rEF42.png)
