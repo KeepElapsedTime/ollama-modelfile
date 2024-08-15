@@ -1,0 +1,4 @@
+FROM xe/llamaguard3
+
+# set the temperature
+PARAMETER temperature 0.8
