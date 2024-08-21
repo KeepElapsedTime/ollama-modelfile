@@ -1,4 +1,4 @@
-FROM phi:3.8b
+FROM phi3.5:3.8b
 
 # set the temperature
 PARAMETER temperature 1
