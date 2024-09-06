@@ -1,0 +1,2 @@
+FROM xe/llamaguard3
+PARAMETER temperature 0.8

@@ -1,0 +1,2 @@
+FROM gemma2:9b
+PARAMETER temperature 0.7

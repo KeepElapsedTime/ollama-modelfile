@@ -1,0 +1,2 @@
+FROM nebel/fugaku-llm:13b-instruct
+PARAMETER temperature 0.7

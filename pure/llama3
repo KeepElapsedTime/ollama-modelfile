@@ -1,0 +1,2 @@
+FROM llama3:8b
+PARAMETER temperature 1

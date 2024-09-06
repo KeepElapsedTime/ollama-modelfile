@@ -1,0 +1,2 @@
+FROM yabi/breeze-7b-instruct-v1_0_q8_0
+PARAMETER temperature 0.7

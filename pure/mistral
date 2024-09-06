@@ -1,0 +1,2 @@
+FROM mistral:7b
+PARAMETER temperature 0.7
