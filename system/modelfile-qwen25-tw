@@ -1,4 +1,4 @@
-FROM qwen2.5:72b
+FROM qwen2.5:72b-instruct-q3_K_M
 
 # set the temperature
 PARAMETER temperature 1
