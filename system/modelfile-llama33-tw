@@ -1,4 +1,4 @@
-FROM llama3.3:7b
+FROM llama3.3:70b-instruct-q2_K
 
 # set the temperature
 PARAMETER temperature 1
