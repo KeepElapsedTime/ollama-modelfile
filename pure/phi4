@@ -1,0 +1,2 @@
+FROM phi4:14b
+PARAMETER temperature 0.7
