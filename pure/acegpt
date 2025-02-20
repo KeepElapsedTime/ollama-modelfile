@@ -1,0 +1,4 @@
+FROM ahmgam/acegpt-v2:8b
+
+# set the temperature
+PARAMETER temperature 1

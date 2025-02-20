@@ -1,0 +1,4 @@
+FROM solar
+
+# set the temperature
+PARAMETER temperature 1

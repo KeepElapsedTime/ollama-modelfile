@@ -1,4 +1,4 @@
-FROM deepseek-r1:14b
+FROM solar
 
 # set the temperature
 PARAMETER temperature 1
