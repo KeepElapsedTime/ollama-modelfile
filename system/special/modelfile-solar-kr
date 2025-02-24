@@ -1,0 +1,10 @@
+FROM solar
+
+# set the temperature
+PARAMETER temperature 1
+
+# set the system message
+SYSTEM """
+You are AI chatbot , Friendly to response everyone infomation. Only reply in Korean, do not use other languages.
+"""
+
