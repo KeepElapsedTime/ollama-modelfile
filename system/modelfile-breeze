@@ -1,5 +1,4 @@
-#FROM yabi/breeze-7b-instruct-v1_0_q8_0
-FROM yabi/breeze-7b-32k-instruct-v1_0_q8_0
+FROM jcai/breeze-7b-32k-instruct-v1_0:q4_0
 
 # set the temperature
 PARAMETER temperature 1
